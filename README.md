@@ -8,5 +8,5 @@
 ## Usage
 
 1. run `npm run savage`
-2. Navigate to `localhost:2000`
+2. Navigate to `localhost:2002`
 s
