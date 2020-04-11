@@ -9,4 +9,4 @@
 
 1. run `node server.js`
 2. Navigate to `localhost:2002`
-s
+
